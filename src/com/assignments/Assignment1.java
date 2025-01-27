@@ -5,7 +5,7 @@ public class Assignment1 {
 	public static void main(String[] args) {
 		
 		//1. Temperature of a city in degrees Celsius: 25.5
-		double celsius = 25.5;
+		float celsius = 25.5f;
 		
 		//2. Whether a customer has placed an order: true or false
 		boolean hasOrderPlaced = true;
@@ -36,10 +36,10 @@ public class Assignment1 {
 		int currentYear = 2023;
 		
 		//11.Number of followers on a social media platform: 1,000,000
-		int followersCount = 1000000;
+		String followersCount = "1,000,000";
 		
 		//12.Rating of a movie: 7.5
-		double movieRating = 7.5;
+		float movieRating = 7.5f;
 		
 		//13.Person's blood type: 'A'
 		char bloodType = 'A';
@@ -63,7 +63,7 @@ public class Assignment1 {
 		String birthPlace = "New York City";
 		
 		//20.Distance between two cities: 200.5
-		double distanceBetweenCities = 200.5;
+		float distanceBetweenCities = 200.5f;
 		
 		
 	}
