@@ -1,6 +1,6 @@
 package com.assignments;
 
-public class Assignment1 {
+public class Assignment1_DataTypes {
 
 	public static void main(String[] args) {
 		
