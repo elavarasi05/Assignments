@@ -66,7 +66,7 @@ public class Assignment2_Arrays {
 		
 		// Alternate Method
         String[][][] sem = new String[5][6][2];
-
+        
         sem[0] = new String[][] {
             {"Mathematics I", "78"},
             {"Physics", "85"},
